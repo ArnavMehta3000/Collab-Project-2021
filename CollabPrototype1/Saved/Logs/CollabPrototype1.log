@@ -7545,3 +7545,353 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.10-21.53.45:933][ 89]LogHttp: Warning: 00000254A1EBC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2022.01.10-21.53.45:933][ 89]LogHttp: Warning: 00000254A1EBC100: libcurl info message cache 1 (Closing connection 30)
 [2022.01.10-21.53.46:269][ 90]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8D33D3AD-4179-E189-5A46-B0A915964963%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=10915ed141e03532a1c52899356d488a%7C3d99ce6847854cbaae37fdefced805d2%7Cd6a2b4e3-35aa-4366-8478-82bb5d8d033e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.01.10-21.56.10:638][451]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-21.56.10:714][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.01.10-21.56.10:788][451]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGeneratorB0F7F2954A160EE5C23023ADC1ECE715.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-21.56.10:800][451]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-21.56.10:800][451]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-21.56.15:648][733]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.01.10-21.56.15:659][733]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.01.10-21.56.25:164][304]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_GridPosition
+[2022.01.10-21.56.25:166][304]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.01.10-21.56.39:116][968]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Arnav/Blueprints/Grid/E_GridPosition.E_GridPosition
+[2022.01.10-21.58.43:856][447]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/E_GridPosition299F2CBA45951C0860A5508E5124D3DA.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/E_GridPosition.uasset'
+[2022.01.10-21.58.43:867][447]AssetCheck: New page: Asset Save: E_GridPosition
+[2022.01.10-21.58.43:867][447]LogContentValidation: Display: Validating UserDefinedEnum /Game/Arnav/Blueprints/Grid/E_GridPosition.E_GridPosition
+[2022.01.10-21.59.02:385][557]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-21.59.02:450][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.01.10-21.59.02:533][557]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGeneratorD84FCD324D7DAED331EE2C94724745AC.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-21.59.02:544][557]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-21.59.02:544][557]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-21.59.14:482][270]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-21.59.14:543][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.01.10-21.59.14:614][270]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGeneratorE2B698A1474B89972D5DEE93F026FA4B.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-21.59.14:629][270]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-21.59.14:629][270]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.00.01:849][ 89]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.00.01:923][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.01.10-22.00.01:994][ 89]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGeneratorE3ACEDB04E70DC35F740979FFF17952E.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.00.02:006][ 89]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.00.02:006][ 89]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.03.23:638][156]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.03.23:713][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.01.10-22.03.23:790][156]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator011F867940B1D97C02279D92FE43015E.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.03.23:804][156]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.03.23:804][156]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.04.08:848][857]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.04.08:923][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.01.10-22.04.09:007][857]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator67EF66A74CA322B16C060C9778697DB2.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.04.09:021][857]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.04.09:021][857]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.04.42:299][852]BlueprintLog: New page: Compile TwinStickPawn
+[2022.01.10-22.04.42:346][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.10-22.04.42:423][852]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickPawn46026E134B1F044F292FAD896DEEAB08.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.01.10-22.04.42:434][852]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.01.10-22.04.42:434][852]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.01.10-22.05.09:763][490]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.05.09:827][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.01.10-22.05.09:915][490]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator3D61E4484585A971E2C0F8AA26260FD7.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.05.09:927][490]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.05.09:927][490]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.05.19:752][ 74]BlueprintLog: New page: Compile TwinStickPawn
+[2022.01.10-22.05.19:793][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.01.10-22.05.19:872][ 74]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickPawnDBDD46AB4D948C89A6024EBC20E6A888.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.01.10-22.05.19:884][ 74]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.01.10-22.05.19:884][ 74]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.01.10-22.05.24:740][362]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.05.24:802][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.10-22.05.24:884][362]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGeneratorCE48548845C206894D5C29A96B3E2D80.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.05.24:896][362]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.05.24:896][362]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.06.14:267][306]BlueprintLog: New page: Compile TwinStickPawn
+[2022.01.10-22.06.14:309][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.01.10-22.06.14:383][306]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickPawn1C170D734AC8650E0398FA8A31D596FC.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.01.10-22.06.14:394][306]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.01.10-22.06.14:394][306]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.01.10-22.06.15:395][365]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.10-22.06.15:399][365]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.10-22.06.15:400][365]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.01.10-22.06.15:422][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.01.10-22.06.15:423][365]LogPlayLevel: PlayLevel: Blueprint regeneration took 23 ms (1 blueprints)
+[2022.01.10-22.06.15:423][365]PIE: New page: PIE session: TwinStickExampleMap (10 Jan 2022, 10:06:15 PM)
+[2022.01.10-22.06.15:423][365]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.01.10-22.06.15:426][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003334s)
+[2022.01.10-22.06.15:427][365]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.01.10-22.06.15:427][365]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2022.01.10-22.06.15:427][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004378s)
+[2022.01.10-22.06.15:446][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.01.10-22.06.15:447][365]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.10-22.06.15:447][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.10-22.06.15:447][365]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.10-22.06.15:447][365]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 1: FrontRight
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 4: BackLeft
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 5: BackRight
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 6: SideLeft
+[2022.01.10-22.06.15:452][365]LogAudioMixer: Display: 7: SideRight
+[2022.01.10-22.06.15:486][365]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.10-22.06.15:487][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.10-22.06.15:487][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.10-22.06.15:487][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.10-22.06.15:487][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.10-22.06.15:487][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.10-22.06.15:487][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.10-22.06.15:500][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.10-22.06.15:500][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.10-22.06.15:500][365]LogInit: FAudioDevice initialized.
+[2022.01.10-22.06.15:500][365]LogAudio: Display: Audio Device (ID: 24) registered with world 'TwinStickExampleMap'.
+[2022.01.10-22.06.15:510][365]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.01.10-22.06.15:511][365]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2022.01.10-22.06.15
+[2022.01.10-22.06.15:512][365]LogWorld: Bringing up level for play took: 0.000975
+[2022.01.10-22.06.15:512][365]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.01.10-22.06.15:514][365]PIE: Server logged in
+[2022.01.10-22.06.15:515][365]PIE: Play in editor total start time 0.116 seconds.
+[2022.01.10-22.06.27:234][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-22.06.27:234][ 64]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.01.10-22.06.27:234][ 64]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-22.06.27:234][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-22.06.27:258][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.10-22.06.27:266][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-22.06.27:282][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-22.06.27:283][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-22.06.27:284][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-22.06.27:323][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.01.10-22.06.27:361][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.01.10-22.06.28:790][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.01.10-22.06.28:823][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.01.10-22.06.28:834][149]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickExampleMap82A09A0C45E38591363A158C3D109596.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.01.10-22.06.28:839][149]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.035
+[2022.01.10-22.06.28:849][149]AssetCheck: New page: Asset Save: TwinStickExampleMap
+[2022.01.10-22.06.28:849][149]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.01.10-22.08.29:552][384]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.08.29:622][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.01.10-22.08.29:709][384]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator92778D8F4CA142BC52877881EBFCD60C.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.08.29:723][384]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.08.29:723][384]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.09.18:338][283]BlueprintLog: New page: Compile TwinStickPawn
+[2022.01.10-22.09.18:383][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.01.10-22.09.18:466][283]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickPawn02B416C14905EE34F449ECAE780EBA4C.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.01.10-22.09.18:477][283]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.01.10-22.09.18:477][283]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.01.10-22.09.26:893][787]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.10-22.09.26:898][787]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.10-22.09.26:908][787]LogPlayLevel: [PlayLevel] Compiling BP_GridGenerator before play...
+[2022.01.10-22.09.27:031][787]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator5259F83C4DC56DCD4C51DEBB112C6BA1.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.09.27:058][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.10-22.09.27:058][787]LogPlayLevel: PlayLevel: Blueprint regeneration took 160 ms (1 blueprints)
+[2022.01.10-22.09.27:058][787]PIE: New page: PIE session: TwinStickExampleMap (10 Jan 2022, 10:09:27 PM)
+[2022.01.10-22.09.27:058][787]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.01.10-22.09.27:062][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003321s)
+[2022.01.10-22.09.27:063][787]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2022.01.10-22.09.27:063][787]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2022.01.10-22.09.27:063][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004618s)
+[2022.01.10-22.09.27:081][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.01.10-22.09.27:081][787]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.01.10-22.09.27:081][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.10-22.09.27:081][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.10-22.09.27:081][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.10-22.09.27:081][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.10-22.09.27:081][787]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.10-22.09.27:081][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.10-22.09.27:081][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.10-22.09.27:081][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.10-22.09.27:082][787]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.10-22.09.27:082][787]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 1: FrontRight
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 4: BackLeft
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 5: BackRight
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 6: SideLeft
+[2022.01.10-22.09.27:087][787]LogAudioMixer: Display: 7: SideRight
+[2022.01.10-22.09.27:117][787]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.01.10-22.09.27:117][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.10-22.09.27:117][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.10-22.09.27:117][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.10-22.09.27:117][787]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.10-22.09.27:117][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.10-22.09.27:117][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.01.10-22.09.27:131][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.10-22.09.27:131][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.10-22.09.27:131][787]LogInit: FAudioDevice initialized.
+[2022.01.10-22.09.27:131][787]LogAudio: Display: Audio Device (ID: 25) registered with world 'TwinStickExampleMap'.
+[2022.01.10-22.09.27:146][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-22.09.27:146][787]LogLoad: Game class is 'TwinStickGameMode_C'
+[2022.01.10-22.09.27:148][787]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 60) at 2022.01.10-22.09.27
+[2022.01.10-22.09.27:148][787]LogWorld: Bringing up level for play took: 0.001079
+[2022.01.10-22.09.27:148][787]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.01.10-22.09.27:150][787]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.01.10-22.09.27:151][787]PIE: Server logged in
+[2022.01.10-22.09.27:152][787]PIE: Play in editor total start time 0.256 seconds.
+[2022.01.10-22.09.27:217][788]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.09.27:217][788]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.09.31:264][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.10-22.09.31:264][ 29]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2022.01.10-22.09.31:265][ 29]LogSlate: Window 'CollabPrototype1 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.10-22.09.31:270][ 29]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.10-22.09.31:271][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-22.09.31:289][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.10-22.09.31:298][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.10-22.09.31:318][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-22.09.31:319][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.10-22.09.31:352][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.01.10-22.09.31:385][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.01.10-22.09.47:839][ 15]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Arnav/Blueprints/Grid/E_GridPosition.E_GridPosition
+[2022.01.10-22.10.05:505][ 63]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/E_GridPosition127A063A48E1105FE5CAA1BBC07D2B7E.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/E_GridPosition.uasset'
+[2022.01.10-22.10.05:515][ 63]AssetCheck: New page: Asset Save: E_GridPosition
+[2022.01.10-22.10.05:516][ 63]LogContentValidation: Display: Validating UserDefinedEnum /Game/Arnav/Blueprints/Grid/E_GridPosition.E_GridPosition
+[2022.01.10-22.10.07:668][192]BlueprintLog: New page: Compile TwinStickPawn
+[2022.01.10-22.10.07:675][192]LogBlueprint: Error: [AssetLog] C:\Users\Arnav\Documents\ARNAV\University Stuff\YR2\Collab-Project-2022\CollabPrototype1\Content\TwinStickBP\Blueprints\TwinStickPawn.uasset: [Compiler] The current value ((INVALID)) of the ' Direction ' pin is invalid: '(INVALID)' is not a valid enumerant of '<E_GridPosition>'
+[2022.01.10-22.10.07:713][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.10-22.10.16:683][723]BlueprintLog: New page: Compile TwinStickPawn
+[2022.01.10-22.10.16:727][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.01.10-22.10.16:807][723]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickPawn333560C24047543DAFD6AA9CC8ED49B7.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.01.10-22.10.16:819][723]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.01.10-22.10.16:819][723]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.01.10-22.10.55:442][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.10-22.10.55:476][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.01.10-22.10.55:488][ 36]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickExampleMap0B5617164476AD7032BF35AB557F3D1D.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.01.10-22.10.55:493][ 36]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.036
+[2022.01.10-22.10.55:545][ 36]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator13A560004B49E49CD47D37BA6F1C6807.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.10.55:558][ 36]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.10-22.10.55:558][ 36]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.10.55:558][ 36]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.01.10-22.10.57:714][166]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.10.57:781][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.01.10-22.13.19:271][438]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.13.19:334][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.01.10-22.13.19:417][438]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator8B1A8D5A4B65379743F3438ECBA116DE.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.13.19:433][438]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.13.19:433][438]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.13.29:611][ 47]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.13.29:680][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.10-22.13.30:859][115]BlueprintLog: New page: Compile TwinStickPawn
+[2022.01.10-22.13.30:898][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.01.10-22.13.30:973][115]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickPawn8F20A6624FDDE5C01DFC65B527A1AF17.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
+[2022.01.10-22.13.30:984][115]AssetCheck: New page: Asset Save: TwinStickPawn
+[2022.01.10-22.13.30:984][115]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.01.10-22.20.55:711][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.01.10-22.20.55:722][424]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickExampleMap_Auto327AAB4FD4AD7F58F5D0F9381D8332528.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/Autosaves/Game/TwinStickBP/Maps/TwinStickExampleMap_Auto3.umap'
+[2022.01.10-22.20.55:724][424]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.033
+[2022.01.10-22.20.55:724][424]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2022.01.10-22.20.55:724][424]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Arnav/Blueprints/Grid/BP_GridGenerator] ([1] browsable assets)...
+[2022.01.10-22.20.55:724][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/Arnav/Blueprints/Grid/BP_GridGenerator]
+[2022.01.10-22.20.55:767][424]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator_Auto3819D5A644B86BFE6B0FE4CB260CE3F8D.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/Autosaves/Game/Arnav/Blueprints/Grid/BP_GridGenerator_Auto3.uasset'
+[2022.01.10-22.20.55:768][424]LogFileHelpers: Auto-saving content packages took 0.044
+[2022.01.10-22.23.47:594][939]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.23.47:672][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.01.10-22.23.47:767][939]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator3157258C49D0670D6BDB588D8492A74D.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.23.47:781][939]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.23.47:781][939]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.23.49:366][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.01.10-22.23.50:821][ 32]LogSlate: Window 'Save Content' being destroyed
+[2022.01.10-22.23.50:859][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.01.10-22.23.50:871][ 32]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickExampleMap8333B30B486DF894693F6789CB7E631F.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.01.10-22.23.50:876][ 32]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.036
+[2022.01.10-22.23.50:885][ 32]AssetCheck: New page: Asset Save: TwinStickExampleMap
+[2022.01.10-22.23.50:885][ 32]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.01.10-22.24.35:106][169]BlueprintLog: New page: Compile BP_GridGenerator
+[2022.01.10-22.24.35:161][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.01.10-22.24.35:248][169]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/BP_GridGenerator91EBB5454FB21AE042B452B1D6D79C6A.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/Arnav/Blueprints/Grid/BP_GridGenerator.uasset'
+[2022.01.10-22.24.35:260][169]AssetCheck: New page: Asset Save: BP_GridGenerator
+[2022.01.10-22.24.35:260][169]LogContentValidation: Display: Validating Blueprint /Game/Arnav/Blueprints/Grid/BP_GridGenerator.BP_GridGenerator
+[2022.01.10-22.24.42:684][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.10-22.24.44:090][459]LogSlate: Window 'Save Content' being destroyed
+[2022.01.10-22.24.44:131][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.01.10-22.24.44:143][459]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickExampleMap1225B989476CB201FE464B8968715D97.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.01.10-22.24.44:148][459]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.037
+[2022.01.10-22.24.44:178][459]LogPlayLevel: Launcher Device ID: WindowsNoEditor@THE-ALIENWARE
+[2022.01.10-22.24.44:183][459]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.10-22.24.44:184][459]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.01.10-22.24.44:208][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.01.10-22.24.44:208][459]LogPlayLevel: PlayLevel: Blueprint regeneration took 24 ms (1 blueprints)
+[2022.01.10-22.24.44:209][459]LogCook: Display: Creating asset registry
+[2022.01.10-22.24.44:240][459]LogCook: Display: Discovering localized assets for cultures: en
+[2022.01.10-22.24.44:244][459]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2022.01.10-22.24.44:244][459]LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.01.10-22.24.44:265][459]LogCook: Display: Sandbox cleanup took 0.021 seconds for platforms WindowsNoEditor
+[2022.01.10-22.24.48:644][460]AssetCheck: New page: Asset Save: TwinStickExampleMap
+[2022.01.10-22.24.48:644][460]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.01.10-22.24.48:644][460]LogCook: Display: Cooked packages 0 Packages Remain 49 Total 49
+[2022.01.10-22.24.48:644][460]LogCook: Display: Cook Diagnostics: OpenFileHandles=477, VirtualMemory=3027MiB
+[2022.01.10-22.24.48:672][460]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.10-22.24.49:251][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2022.01.10-22.24.50:109][470]LogCook: Display: Cooked packages 410 Packages Remain 93 Total 503
+[2022.01.10-22.24.50:409][473]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.01.10-22.24.50:534][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.01.10-22.24.50:565][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.01.10-22.24.50:645][475]LogCook: Display: Cooked packages 505 Packages Remain 0 Total 505
+[2022.01.10-22.24.50:645][475]LogCook: Display: Cook Diagnostics: OpenFileHandles=503, VirtualMemory=3227MiB
+[2022.01.10-22.24.50:646][475]LogCook: Display: Finishing up...
+[2022.01.10-22.24.50:647][475]LogCook: Display: Saving BulkData manifest(s)...
+[2022.01.10-22.24.50:648][475]LogCook: Display: Done saving BulkData manifest(s)
+[2022.01.10-22.24.50:675][475]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.01.10-22.24.50:675][475]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.01.10-22.24.50:675][475]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.01.10-22.24.50:707][475]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2022.01.10-22.24.50:708][475]LogAssetRegistryGenerator: Chunk: 0, Started with 496 packages, Final after dependency resolve: 496
+[2022.01.10-22.24.50:709][475]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.002 s
+[2022.01.10-22.24.50:709][475]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2022.01.10-22.24.50:721][475]LogAssetRegistryGenerator: Display: Generated asset registry num assets 496, size is 194.70kb
+[2022.01.10-22.24.50:721][475]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.01.10-22.24.50:742][475]LogShaderLibrary: Display: 
+[2022.01.10-22.24.50:742][475]LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2022.01.10-22.24.50:742][475]LogShaderLibrary: Display: =================
+[2022.01.10-22.24.50:742][475]LogShaderLibrary: Display: Unique Shaders: 4278, Total Shaders: 6406, Unique Shadermaps: 336
+[2022.01.10-22.24.50:742][475]LogShaderLibrary: Display: Unique Shaders Size: 9.69mb, Total Shader Size: 12.89mb
+[2022.01.10-22.24.50:742][475]LogShaderLibrary: Display: =================
+[2022.01.10-22.24.50:742][475]LogCook: Display: Cook by the book total time in tick 1.479026s total time 6.534201
+[2022.01.10-22.24.50:742][475]LogCook: Display: Peak Used virtual 3254 MiB Peak Used physical 2390 MiB
+[2022.01.10-22.24.50:742][475]LogCook: Display: Hierarchy Timer Information:
+[2022.01.10-22.24.50:742][475]LogCook: Display:   Root: 0.000s (0)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     CleanSandbox: 0.021s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     CollectFilesToCook: 0.003s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       SearchForPackageOnDisk: 0.000s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     TickCookOnTheSide: 1.479s (16)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       PostLoadPackageFixup: 0.003s (610)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       LoadPackageForCooking: 0.224s (507)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       SavingPackages: 1.251s (37)
+[2022.01.10-22.24.50:742][475]LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.014s (8)
+[2022.01.10-22.24.50:742][475]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.453s (508)
+[2022.01.10-22.24.50:742][475]LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.453s (502)
+[2022.01.10-22.24.50:742][475]LogCook: Display:         SaveCookedPackage: 0.774s (505)
+[2022.01.10-22.24.50:742][475]LogCook: Display:           GEditorSavePackage: 0.761s (505)
+[2022.01.10-22.24.50:742][475]LogCook: Display:             ConvertingBlueprints: 0.026s (505)
+[2022.01.10-22.24.50:742][475]LogCook: Display:             VerifyCanCookPackage: 0.002s (496)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     GeneratingBlueprintAssets: 0.029s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     SavingCurrentIniSettings: 0.020s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:     SavingAssetRegistry: 0.045s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       BuildChunkManifest: 0.009s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       SaveManifests: 0.002s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       SaveRealAssetRegistry: 0.014s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display:       WriteCookerOpenOrder: 0.002s (1)
+[2022.01.10-22.24.50:742][475]LogCook: Display: Done!
+[2022.01.10-22.24.51:025][476]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 1.208285
+[2022.01.10-22.24.51:657][477]LogPlayLevel: Running AutomationTool...
+[2022.01.10-22.24.53:262][573]LogPlayLevel: Parsing command line: -ScriptsForProject="C:/Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/CollabPrototype1.uproject" BuildCookRun -project="C:/Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/CollabPrototype1.uproject" -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe="C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -map=/Game/TwinStickBP/Maps/TwinStickExampleMap -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/TwinStickBP/Maps/TwinStickExampleMap -Messaging" -device=WindowsNoEditor@THE-ALIENWARE -addcmdline="-SessionId=465D15E24211E788EEF2D2A132752199 -SessionOwner='Arnav' -SessionName='Launch On Device'  " -run
+[2022.01.10-22.24.55:620][713]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 4.295053
+[2022.01.10-22.24.55:620][713]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave CompileFailed...
+[2022.01.10-22.24.55:620][713]LogAudioDerivedData: Display: Compression Quality for SoundWave /Engine/EditorSounds/Notifications/CompileFailed.CompileFailed will be modified from 40 to 40.
+[2022.01.10-22.24.55:644][713]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 89512 while cooking SoundWave /Engine/EditorSounds/Notifications/CompileFailed.CompileFailed.
+[2022.01.10-22.24.57:858][846]LogSlate: Window 'Output Log' being destroyed
+[2022.01.10-22.24.57:863][846]LogSlate: Window 'Output Log' being destroyed
+[2022.01.10-22.25.22:286][222]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.01.10-22.25.34:393][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.01.10-22.25.47:125][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.01.10-22.25.47:272][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
