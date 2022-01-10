@@ -7533,3 +7533,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.10-21.52.40:708][688]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickPawn8901F1E9405FA29F7D1C5797A1B9428C.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Blueprints/TwinStickPawn.uasset'
 [2022.01.10-21.52.40:721][688]AssetCheck: New page: Asset Save: TwinStickPawn
 [2022.01.10-21.52.40:721][688]LogContentValidation: Display: Validating Blueprint /Game/TwinStickBP/Blueprints/TwinStickPawn.TwinStickPawn
+[2022.01.10-21.52.59:501][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.01.10-21.53.00:447][898]LogSlate: Window 'Save Content' being destroyed
+[2022.01.10-21.53.00:491][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.01.10-21.53.00:503][898]LogSavePackage: Moving '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Saved/TwinStickExampleMapF0B9545845C6EBB5434B2A950564F8AF.tmp' to '../../../../../../Users/Arnav/Documents/ARNAV/University Stuff/YR2/Collab-Project-2022/CollabPrototype1/Content/TwinStickBP/Maps/TwinStickExampleMap.umap'
+[2022.01.10-21.53.00:507][898]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.036
+[2022.01.10-21.53.00:518][898]AssetCheck: New page: Asset Save: TwinStickExampleMap
+[2022.01.10-21.53.00:518][898]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.01.10-21.53.45:933][ 89]LogHttp: Warning: 00000254A1EBC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8D33D3AD-4179-E189-5A46-B0A915964963%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=10915ed141e03532a1c52899356d488a%7C3d99ce6847854cbaae37fdefced805d2%7Cd6a2b4e3-35aa-4366-8478-82bb5d8d033e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.01.10-21.53.45:933][ 89]LogHttp: Warning: 00000254A1EBC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.01.10-21.53.45:933][ 89]LogHttp: Warning: 00000254A1EBC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.01.10-21.53.45:933][ 89]LogHttp: Warning: 00000254A1EBC100: libcurl info message cache 1 (Closing connection 30)
+[2022.01.10-21.53.46:269][ 90]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8D33D3AD-4179-E189-5A46-B0A915964963%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=10915ed141e03532a1c52899356d488a%7C3d99ce6847854cbaae37fdefced805d2%7Cd6a2b4e3-35aa-4366-8478-82bb5d8d033e&AppEnvironment=datacollector-binary&UploadType=eteventstream
