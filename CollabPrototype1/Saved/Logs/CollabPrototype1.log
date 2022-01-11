@@ -20295,3 +20295,9 @@ BP_Grid
 [2022.01.11-17.31.55:443][936]LogFileHelpers: Saving map 'TwinStickExampleMap' took 0.036
 [2022.01.11-17.31.55:453][936]AssetCheck: New page: Asset Save: TwinStickExampleMap
 [2022.01.11-17.31.55:453][936]LogContentValidation: Display: Validating World /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap
+[2022.01.11-17.34.53:755][557]Cmd: r.VSyncEditor 1
+[2022.01.11-17.34.53:755][557]r.VSyncEditor = "1"
+[2022.01.11-17.37.36:521][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.01.11-17.49.04:537][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.01.11-17.49.04:733][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.01.11-17.51.56:511][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
