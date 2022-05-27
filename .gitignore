@@ -77,15 +77,15 @@ Build/*/**
 
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
-!Build/IOS/Resources/
-Build/IOS/Resources/*
-!Build/IOS/Resources/Graphics/
-Build/IOS/Resources/Graphics/*
-!Build/IOS/Resources/Graphics/*.png
-!Build/Android/res/
-Build/Android/res/*
-!Build/Android/res/*/
-Build/Android/res/*/*
-!Build/Android/res/*/*.png
-
-# End of https://www.toptal.com/developers/gitignore/api/unrealengine
+!*/Build/IOS/Resources/
+*/Build/IOS/Resources/*
+!*/Build/IOS/Resources/Graphics/
+*/Build/IOS/Resources/Graphics/*
+!*/Build/IOS/Resources/Graphics/*.png
+!*/Build/Android/res/
+*/Build/Android/res/*
+!*/Build/Android/res/*/
+*/Build/Android/res/*/*
+!*/Build/Android/res/*/*.png
+!*/Build/Windows/*.ico
+!Build/Windows/*.ico
