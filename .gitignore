@@ -87,5 +87,7 @@ Build/*/**
 !*/Build/Android/res/*/
 */Build/Android/res/*/*
 !*/Build/Android/res/*/*.png
-!*/Build/Windows/*.ico
-!Build/Windows/*.ico
+!*/Build/*.icon
+!Build/*.icon
+!*/Build/*/*.icon
+!Build/*/*.icon
